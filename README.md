@@ -1,7 +1,7 @@
-# Arkadaşlarım için Türkçe açıklamalarla detaylandırdığım NG2 örnek uygulamasıdır. Sublime Text 3 kullanmanızı tavsiye ederim. Proje yapısını ona göre ayarladım. İnceleyip anlam veremediğiniz kısımları direk olarak bana iletirseniz gerekli açıklamaları eklerim :)
-
 # Angular Hızlı Başlangıç Kaynağı
 [![Build Status][travis-badge]][travis-badge-url]
+
+Arkadaşlarım için Türkçe açıklamalarla detaylandırdığım NG2 örnek uygulamasıdır. Sublime Text 3 kullanmanızı tavsiye ederim. Proje yapısını ona göre ayarladım. İnceleyip anlam veremediğiniz kısımları direk olarak bana iletirseniz gerekli açıklamaları eklerim :)
 
 Bu dosya [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html) anlatılan TypeScript kaynak kodlarını ve örnek uygulamasını içerir,
 bu sayede Angular dünyasına en temel özelliklerin anlatıldığı güzel bir başlangıç yapmış olursunuz.
