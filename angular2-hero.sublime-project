@@ -1,0 +1,34 @@
+{
+  "folders":
+  [
+    {
+      "path": "/",
+      "folder_exclude_patterns" : [
+        "e2e", 
+        "node_modules", 
+        "typings"
+      ],
+      "file_exclude_patterns"   : ["*.log", "CHANGELOG.md", "LICENSE", ".dockerignore", ".travis.yml", "Dockerfile", "favicon.ico"]
+    },
+    {
+      "path": "app",
+      "file_exclude_patterns"   : ["*.map", "*.js"]
+    },
+    {
+      "path": "css"
+    },
+    {
+      "path": "templates"
+    }
+  ],
+  "settings":
+    {
+      "tab_size": 2,
+      "font_size": 13,
+      "translate_tabs_to_spaces": true,
+      "word_wrap": false,
+      "highlight_line": true,
+      "line_padding_top": 2,
+      "line_padding_bottom": 2
+    }
+}

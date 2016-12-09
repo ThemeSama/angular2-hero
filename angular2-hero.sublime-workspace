@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"styleUrls\tproperty"
+			],
+			[
+				"sty",
+				"styleUrls\tproperty"
+			],
+			[
+				"st",
+				"styleUrls\tproperty"
+			],
+			[
+				"tem",
+				"templateUrl\tproperty"
+			],
+			[
+				"te",
+				"templateUrl\tproperty"
+			],
+			[
+				"impo",
+				"import\tkeyword"
+			],
+			[
+				"im",
+				"import\timports a module …"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"exp",
+				"export\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/service/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 4386,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/hero-detail.component.html",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/heroes.component.html",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/hero.js",
+			"settings":
+			{
+				"buffer_size": 242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ts",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"Material Theme",
+				"Material Theme: Activate theme"
+			]
+		],
+		"width": 383.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/angular2-hero/",
+		"/var/www/html/angular2-hero//app",
+		"/var/www/html/angular2-hero//app/components",
+		"/var/www/html/angular2-hero//app/models",
+		"/var/www/html/angular2-hero//app/service",
+		"/var/www/html/angular2-hero/app",
+		"/var/www/html/angular2-hero/app/service",
+		"/var/www/html/angular2-hero/templates"
+	],
+	"file_history":
+	[
+		"/var/www/html/angular2-hero/app/service/hero-search.service.ts",
+		"/var/www/html/angular2-hero/app/components/heroes.component.ts",
+		"/var/www/html/swarm-sticker-guide/swarm-sticker-guide.sublime-project",
+		"/var/www/html/KnowYourBooks/knowyourbooks.sublime-project",
+		"/var/www/html/angular2-hero/app/service/hero.service.ts",
+		"/var/www/html/angular2-hero/app/app.routing.ts",
+		"/var/www/html/angular2-hero/app/service/in-memory-data.service.ts",
+		"/var/www/html/angular2-hero/index.html",
+		"/var/www/html/angular2-hero/app/app.module.ts",
+		"/var/www/html/angular2-hero/app/service/hero.service.js",
+		"/var/www/html/apache-cordova-test/platforms/android/gradle.properities",
+		"/var/www/html/angular2-hero/app/main.ts",
+		"/var/www/html/angular2-hero/app/app.component.ts",
+		"/var/www/html/angular2-hero/angular2-hero.sublime-project",
+		"/var/www/html/angular2-hero/.typingsrc",
+		"/var/www/html/angular2-hero/tsconfig.json",
+		"/var/www/html/angular2-hero/app/components/hero-search.component.ts",
+		"/var/www/html/angular2-hero/app/rxjs-extensions.ts",
+		"/var/www/html/angular2-hero/app/components/hero-detail.component.ts",
+		"/var/www/html/angular2-hero/templates/heroes.component.html",
+		"/var/www/html/angular2-hero/templates/hero-detail.component.html",
+		"/var/www/html/angular2-hero/templates/dashboard.component.html",
+		"/var/www/html/angular2-hero/templates/hero-search.component.html",
+		"/var/www/html/angular2-hero/css/hero-search.component.css",
+		"/var/www/html/angular2-hero/css/heroes.component.css",
+		"/var/www/html/angular2-hero/app/app.component.spec.ts",
+		"/var/www/html/angular2-hero/app/components/dashboard.component.ts",
+		"/var/www/html/angular2-hero/app/service/mock-heroes.ts",
+		"/var/www/html/angular2-hero/app/mock-heroes.ts",
+		"/var/www/html/angular2-hero/app/heroes.component.ts",
+		"/var/www/html/angular2-hero/app/dashboard.component.ts",
+		"/var/www/html/angular2-hero/app/hero-detail.component.ts",
+		"/var/www/html/angular2-hero/app/models/hero.ts",
+		"/var/www/html/angular2-hero/templates/app.component.html",
+		"/var/www/html/angular2-hero/app/templates/heroes.component.html",
+		"/var/www/html/angular2-hero/app/css/hero-detail.component.css",
+		"/var/www/html/angular2-hero/styles.css",
+		"/var/www/html/angular2-hero/app/templates/app.component.html",
+		"/var/www/html/angular2-hero/app/css/dashboard.component.css",
+		"/var/www/html/angular2-hero/app/css/heroes.component.css",
+		"/var/www/html/angular2-hero/app/templates/dashboard.component.html",
+		"/var/www/html/angular2-hero/app/templates/hero-detail.component.html",
+		"/var/www/html/angular2-hero/app/app.component.js",
+		"/var/www/html/angular2-hero/app/hero.ts",
+		"/var/www/html/angular-hero/tsconfig.json",
+		"/var/www/html/angular-hero/typings.json",
+		"/var/www/html/angular-hero/systemjs.config.js",
+		"/var/www/html/angular-hero/.typingsrc",
+		"/var/www/html/angular-hero/package.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"."
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getHero",
+			"InMemoryDataService",
+			"mock-heroes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/service/hero.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2697,
+								2697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/components/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/hero-detail.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/heroes.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/hero.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2-hero.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

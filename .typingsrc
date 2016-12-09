@@ -1,0 +1,2 @@
+proxy=http://KullaniciAdiBuraya:SifreBuraya@10.250.0.200:80
+rejectUnauthorized=false
